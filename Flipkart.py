@@ -38,4 +38,4 @@ for index, product_div in enumerate(product_divs, start=2):
 workbook.save('output.xlsx')
 
 print('Data written to output.xlsx')
-
+# nadeem
